@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Testimonials/static/css/main.9a96e442.css",
+    "main.js": "/Testimonials/static/js/main.eb051b10.js",
+    "static/media/Ritika.jpg": "/Testimonials/static/media/Ritika.ac360e65a7a7bf74571f.jpg",
+    "static/media/arick.jpg": "/Testimonials/static/media/arick.2cab93655becb07502ca.jpg",
+    "static/media/sonali.jpg": "/Testimonials/static/media/sonali.30f73ea9c4e75a6c78fb.jpg",
+    "static/media/abhinandan.jpg": "/Testimonials/static/media/abhinandan.00d92839062c63bd08fb.jpg",
+    "static/media/shagun.jpg": "/Testimonials/static/media/shagun.a337b7551d25548fd8ad.jpg",
+    "static/media/Abhay.jpg": "/Testimonials/static/media/Abhay.d367bf41b525f15b508e.jpg",
+    "static/media/teena.jpg": "/Testimonials/static/media/teena.2c6620b5263f640cfae2.jpg",
+    "index.html": "/Testimonials/index.html",
+    "main.9a96e442.css.map": "/Testimonials/static/css/main.9a96e442.css.map",
+    "main.eb051b10.js.map": "/Testimonials/static/js/main.eb051b10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a96e442.css",
+    "static/js/main.eb051b10.js"
+  ]
+}
